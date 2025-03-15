@@ -24,6 +24,7 @@ I'm a passionate programming student currently pursuing a professional course in
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Database
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
@@ -39,7 +40,6 @@ I'm currently focusing on:
 
 - Deepening my knowledge of Python and Flask
 - Improving my frontend development skills with HTML, CSS, and JavaScript
-- Learning database design and management
 - Building practical projects to apply my knowledge
 
 ---
@@ -50,13 +50,6 @@ I'm currently focusing on:
 - Learning both theoretical concepts and practical applications of programming
 - Developing skills in software development, web technologies, and database management
 - Working on course projects to apply classroom knowledge to real-world scenarios
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/falty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://falty.dev)
 
 ---
 
